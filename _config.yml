@@ -1,13 +1,13 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
+  主页: /
+  文章: /archives
+#rss: /atom.xml
 
 # Content
 excerpt_link: Read More
-fancybox: false
-mathjax: false
+fancybox: true
+mathjax: true
 
 # Sidebar
 sidebar: right
@@ -21,8 +21,9 @@ widgets:
 
 # Links
 links:
-  主题作者: http://xiguabaobao.com
-  热前端: http://reqianduan.com
+  yejinru: http://yejinru.com/
+  didihe1988: http://didihe1988.github.io/
+  nanshu: http://nanshu.me/
 
 # Miscellaneous
 google_analytics:
@@ -33,7 +34,7 @@ fb_admins:
 fb_app_id:
 
 # Duoshuo
-duoshuo_shortname: 
+duoshuo_shortname: ay27
 
 # Baidu share
-baidushare: true
+baidushare: false
