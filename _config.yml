@@ -17,7 +17,7 @@ widgets:
 - links
 #- category
 #- tag
-#- tagcloud
+- tagcloud
 
 # Links
 links:
